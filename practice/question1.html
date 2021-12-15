@@ -1,0 +1,120 @@
+<div id="main-splitpane-left" class="coding-question__left-pane">
+  <section class="question-view__title-wrapper">
+    <h1 class="question-view__title">
+      1. Amazon Customer Reviews (example question)
+    </h1>
+  </section>
+  <section class="question-view__instruction">
+    <div class="candidate-rich-text">
+      <div id="8j5imh2ttk9-instruction">
+        <p>
+          Amazon is building a way to help customers search reviews quicker by
+          providing real-time suggestions to search terms when the customer
+          starts typing. When given a minimum of two characters into the search
+          field the system will suggest at most three keywords from the review
+          word repository. As the customer continues to type in the reviews
+          search bar the relevant keyword suggestions will update automatically.
+        </p>
+
+        <p>&nbsp;</p>
+
+        <p>
+          Write an algorithm that will output a maximum of three keyword
+          suggestions after each character is typed by the customer in the
+          search field.
+        </p>
+
+        <p>&nbsp;</p>
+
+        <p>
+          If there are more than three acceptable keywords, return the keywords
+          that are first in alphabetical order.<br />
+          Only return keyword suggestions after the customer has entered two
+          characters.<br />
+          Keyword suggestions must start with the characters already typed
+        </p>
+
+        <p>
+          Both the repository and the customerQuery should be compared in a
+          case-insensitive way.
+        </p>
+
+        <p>&nbsp;</p>
+
+        <p>
+          <strong>Input</strong><br />
+          The input to the method/function consists of two arguments:<br />
+          <em>repository, </em>a list of unique strings representing the various
+          keywords from the Amazon review comment section;<br />
+          <em>customerQuery, </em>a string representing the full search query of
+          the customer.
+        </p>
+
+        <p>&nbsp;</p>
+
+        <p>
+          <strong>Output</strong><br />
+          <span
+            style="
+              color: rgb(33, 47, 62);
+              font-family: Ember, -apple-system, BlinkMacSystemFont, 'Segoe UI',
+                Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue',
+                sans-serif;
+              font-size: medium;
+              font-style: normal;
+              font-weight: 400;
+              letter-spacing: normal;
+              text-align: start;
+              text-indent: 0px;
+              white-space: pre-wrap;
+              display: inline !important;
+              float: none;
+            "
+            >Return a list of a list of strings in lower case</span
+          >, where each list represents the keyword suggestions made by the
+          system as the customer types each character of the customerQuery.
+          Assume the customer types characters in order without deleting or
+          removing any characters. If an output is not possible, return an empty
+          array ([]).
+        </p>
+
+        <p>&nbsp;</p>
+
+        <p>
+          <strong>Example</strong><br />
+          Input:<br />
+          repository = [ "mobile", "mouse", "moneypot", "monitor", "mousepad"
+          ]<br />
+          customerQuery = "mouse"
+        </p>
+
+        <p>&nbsp;</p>
+
+        <p>
+          Output:<br />
+          ["mobile", "moneypot", "monitor"]<br />
+          ["mouse", "mousepad"]<br />
+          ["mouse", "mousepad"]<br />
+          ["mouse", "mousepad"]
+        </p>
+
+        <p>&nbsp;</p>
+
+        <p>
+          Explanation:<br />
+          The chain of words that will generate in the search box will be<br />
+          mo, mou, mous, mouse<br />
+          and each line from output shows the suggestion of "mo", "mou", "mous",
+          "mouse", respectively in each line.<br />
+          For the keyword suggestions made by the system that are generated for
+          'mo', the matches that will be generated are:["mobile", "mouse",
+          "moneypot", "monitor", "mousepad"]<br />
+          Alphabetically, they will be reordered to [ "mobile", "moneypot",
+          "monitor", "mouse", "mousepad" ].<br />
+          Thus the keyword suggestions made by the system are [ "mobile",
+          "moneypot", "monitor"].
+        </p>
+      </div>
+    </div>
+  </section>
+</div>
