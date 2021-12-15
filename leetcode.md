@@ -4,21 +4,21 @@
 > https://www.reddit.com/r/leetcode/comments/n2bcwh/list_of_questions_of_amazon/
 
 
-- Number of Islands (145 times): https://leetcode.com/problems/number-of-islands/
-- Partition Labels (144 times): https://leetcode.com/problems/partition-labels/ 
-- Two Sum (100 times): https://leetcode.com/problems/two-sum/ 
-- Reorder Data in Log Files (89 times): https://leetcode.com/problems/reorder-data-in-log-files/ 
-- LRU Cache (81 times): https://leetcode.com/problems/lru-cache/ 
-- Minimum Difficulty of a Job Schedule (71 times): https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/ 
-- Critical Connections in a Network (70 times): https://leetcode.com/problems/critical-connections-in-a-network/ 
-- Pairs of Songs With Total Durations Divisible by 60 (58 times): https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ 
-- K Closest Points to Origin (57 times): https://leetcode.com/problems/k-closest-points-to-origin/ 
-- Merge Two Sorted Lists (56 times): https://leetcode.com/problems/merge-two-sorted-lists/ 
-- Top K Frequent Words (55 times): https://leetcode.com/problems/top-k-frequent-words/ 
+- Number of Islands (145 times): https://leetcode.com/problems/number-of-islands/ ✅
+- Partition Labels (144 times): https://leetcode.com/problems/partition-labels/ ✅
+- Two Sum (100 times): https://leetcode.com/problems/two-sum/ ✅
+- Reorder Data in Log Files (89 times): https://leetcode.com/problems/reorder-data-in-log-files/ ✅
+- LRU Cache (81 times): https://leetcode.com/problems/lru-cache/ ✅
+- Minimum Difficulty of a Job Schedule (71 times): https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/ ✅
+- Critical Connections in a Network (70 times): https://leetcode.com/problems/critical-connections-in-a-network/ ✅
+- Pairs of Songs With Total Durations Divisible by 60 (58 times): https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/ ✅
+- K Closest Points to Origin (57 times): https://leetcode.com/problems/k-closest-points-to-origin/ ✅
+- Merge Two Sorted Lists (56 times): https://leetcode.com/problems/merge-two-sorted-lists/ ✅
+- Top K Frequent Words (55 times): https://leetcode.com/problems/top-k-frequent-words/ ✅
 - Copy List with Random Pointer (54 times): https://leetcode.com/problems/copy-list-with-random-pointer/ 
-- Most Common Word (49 times): https://leetcode.com/problems/most-common-word/ 
-- Merge k Sorted Lists (44 times): https://leetcode.com/problems/merge-k-sorted-lists/ 
-- Longest Palindromic Substring (43 times): https://leetcode.com/problems/longest-palindromic-substring/ 
+- Most Common Word (49 times): https://leetcode.com/problems/most-common-word/ ✅
+- Merge k Sorted Lists (44 times): https://leetcode.com/problems/merge-k-sorted-lists/ ✅
+- Longest Palindromic Substring (43 times): https://leetcode.com/problems/longest-palindromic-substring/ ✅
 - Subtree of Another Tree (41 times): https://leetcode.com/problems/subtree-of-another-tree/ 
 - Trapping Rain Water (40 times): https://leetcode.com/problems/trapping-rain-water/ 
 - Word Ladder (36 times): https://leetcode.com/problems/word-ladder/ 
@@ -70,48 +70,46 @@
 
 > https://leetcode.com/discuss/interview-question/488887/Amazon-Final-Interview-Questions-or-SDE1
 
-<ul>
-<li>Two Sum (<a href="https://leetcode.com/problems/two-sum/">#1</a>)</li>
-<li>Median of Two Sorted Arrays * (<a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">#4</a>)</li>
-<li>Longest Palindromic Substring (<a href="https://leetcode.com/problems/longest-palindromic-substring/">#5</a>)</li>
-<li>String to Integer (atoi) (<a href="https://leetcode.com/problems/string-to-integer-atoi/">#8</a>)</li>
-<li>Integer to Roman (<a href="https://leetcode.com/problems/integer-to-roman/">#12</a>)</li>
-<li>Roman to Integer (<a href="https://leetcode.com/problems/roman-to-integer/">#13</a>)</li>
-<li>Valid Parentheses (<a href="https://leetcode.com/problems/valid-parentheses/">#20</a>)</li>
-<li>Merge K Sorted Lists (<a href="https://leetcode.com/problems/merge-k-sorted-lists/">#23</a>)</li>
-<li>Valid Sudoku (<a href="https://leetcode.com/problems/valid-sudoku/">#36</a>)</li>
-<li>Combination Sum (<a href="https://leetcode.com/problems/combination-sum/">#39</a>)</li>
-<li>Permutations (<a href="https://leetcode.com/problems/permutations/">#46</a>)</li>
-<li>Merge Intervals (<a href="https://leetcode.com/problems/merge-intervals/">#56</a>)</li>
-<li>Rotate List (<a href="https://leetcode.com/problems/rotate-list/">#61</a>)</li>
-<li>Minimum Path Sum (<a href="https://leetcode.com/problems/minimum-path-sum/">#64</a>)</li>
-<li>Word Search (<a href="https://leetcode.com/problems/word-search/">#79</a>)</li>
-<li>Validate Binary Search Tree(<a href="https://leetcode.com/problems/validate-binary-search-tree/">#98</a>)</li>
-<li>Same Tree ~ (<a href="https://leetcode.com/problems/same-tree/">#100</a>)</li>
-<li>Symmetric Tree ~ (<a href="https://leetcode.com/problems/symmetric-tree/">#101</a>)</li>
-<li>Binary Tree Level Order Traversal (<a href="https://leetcode.com/problems/binary-tree-level-order-traversal/">#102</a>)</li>
-<li>Convert Sorted List to Binary Search Tree (<a href="https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/">#109</a>)</li>
-<li>Populating Next Right Pointers in Each Node (<a href="https://leetcode.com/problems/populating-next-right-pointers-in-each-node/">#116</a>)</li>
-<li>Best Time to Buy and Sell Stock (<a href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">#121</a>)</li>
-<li>Word Ladder II (<a href="https://leetcode.com/problems/word-ladder-ii/">#126</a>)</li>
-<li>Word Ladder (<a href="https://leetcode.com/problems/word-ladder/">#127</a>)</li>
-<li>LRU Cache (<a href="https://leetcode.com/problems/lru-cache/">#146</a>)</li>
-<li>Min Stack (<a href="https://leetcode.com/problems/min-stack/">#155</a>)</li>
-<li>Number of Islands (<a href="https://leetcode.com/problems/number-of-islands/">#200</a>)</li>
-<li>Course Schedule (<a href="https://leetcode.com/problems/course-schedule/">#207</a>)</li>
-<li>Course Schedule II (<a href="https://leetcode.com/problems/course-schedule-ii/">#210</a>)</li>
-<li>Add and Search Word - Data structure design (<a href="https://leetcode.com/problems/add-and-search-word-data-structure-design/">#211</a>)</li>
-<li>Word Search II (<a href="https://leetcode.com/problems/word-search-ii/">#212</a>)</li>
-<li>Integer to English Words (<a href="https://leetcode.com/problems/integer-to-english-words/">#273</a>)</li>
-<li>Game of Life (<a href="https://leetcode.com/problems/game-of-life/">#289</a>)</li>
-<li>Find Median from Data Stream (<a href="https://leetcode.com/problems/find-median-from-data-stream/">#295</a>)</li>
-<li>Longest Increasing Subsequence (<a href="https://leetcode.com/problems/longest-increasing-subsequence/">#300</a>)</li>
-<li>Design Tic-Tac-Toe (<a href="https://leetcode.com/problems/design-tic-tac-toe/">#348</a>)</li>
-<li>Pacific Atlantic Water Flow (<a href="https://leetcode.com/problems/pacific-atlantic-water-flow/">#417</a>)</li>
-<li>Minesweeper (<a href="https://leetcode.com/problems/minesweeper/">#529</a>)</li>
-<li>Diameter of Binary Tree (<a href="https://leetcode.com/problems/diameter-of-binary-tree/">#543</a>)</li>
-<li>Reorganize String (<a href="https://leetcode.com/problems/reorganize-string/">#767</a>)</li>
-</ul>
+- Two Sum : https://leetcode.com/problems/two-sum/ #1 ✅
+- Median of Two Sorted Arrays * : https://leetcode.com/problems/median-of-two-sorted-arrays/ #4 ✅
+- Longest Palindromic Substring : https://leetcode.com/problems/longest-palindromic-substring/ #5 ✅
+- String to Integer (atoi) : https://leetcode.com/problems/string-to-integer-atoi/ #8 ✅
+- Integer to Roman : https://leetcode.com/problems/integer-to-roman/ #12 ✅
+- Roman to Integer : https://leetcode.com/problems/roman-to-integer/ #13 ✅
+- Valid Parentheses : https://leetcode.com/problems/valid-parentheses/ #20 ✅
+- Merge K Sorted Lists : https://leetcode.com/problems/merge-k-sorted-lists/ #23 ✅
+- Valid Sudoku : https://leetcode.com/problems/valid-sudoku/ #36
+- Combination Sum : https://leetcode.com/problems/combination-sum/ #39
+- Permutations : https://leetcode.com/problems/permutations/ #46
+- Merge Intervals : https://leetcode.com/problems/merge-intervals/ #56
+- Rotate List : https://leetcode.com/problems/rotate-list/ #61
+- Minimum Path Sum : https://leetcode.com/problems/minimum-path-sum/ #64
+- Word Search : https://leetcode.com/problems/word-search/ #79
+- Validate Binary Search Tree: https://leetcode.com/problems/validate-binary-search-tree/ #98
+- Same Tree ~ : https://leetcode.com/problems/same-tree/ #100
+- Symmetric Tree ~ : https://leetcode.com/problems/symmetric-tree/ #101
+- Binary Tree Level Order Traversal : https://leetcode.com/problems/binary-tree-level-order-traversal/ #102
+- Convert Sorted List to Binary Search Tree : https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/ #109
+- Populating Next Right Pointers in Each Node : https://leetcode.com/problems/populating-next-right-pointers-in-each-node/ #116
+- Best Time to Buy and Sell Stock : https://leetcode.com/problems/best-time-to-buy-and-sell-stock/ #121
+- Word Ladder II : https://leetcode.com/problems/word-ladder-ii/ #126
+- Word Ladder : https://leetcode.com/problems/word-ladder/ #127
+- LRU Cache : https://leetcode.com/problems/lru-cache/ #146
+- Min Stack : https://leetcode.com/problems/min-stack/ #155
+- Number of Islands : https://leetcode.com/problems/number-of-islands/ #200
+- Course Schedule : https://leetcode.com/problems/course-schedule/ #207
+- Course Schedule II : https://leetcode.com/problems/course-schedule-ii/ #210
+- Add and Search Word - Data structure design : https://leetcode.com/problems/add-and-search-word-data-structure-design/ #211
+- Word Search II : https://leetcode.com/problems/word-search-ii/ #212
+- Integer to English Words : https://leetcode.com/problems/integer-to-english-words/ #273
+- Game of Life : https://leetcode.com/problems/game-of-life/ #289
+- Find Median from Data Stream : https://leetcode.com/problems/find-median-from-data-stream/ #295
+- Longest Increasing Subsequence : https://leetcode.com/problems/longest-increasing-subsequence/ #300
+- Design Tic-Tac-Toe : https://leetcode.com/problems/design-tic-tac-toe/ #348
+- Pacific Atlantic Water Flow : https://leetcode.com/problems/pacific-atlantic-water-flow/ #417
+- Minesweeper : https://leetcode.com/problems/minesweeper/ #529
+- Diameter of Binary Tree : https://leetcode.com/problems/diameter-of-binary-tree/ #543
+- Reorganize String : https://leetcode.com/problems/reorganize-string/ #767
 
 *not required to solve
 ~solve both iteratively and recursively

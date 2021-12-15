@@ -1,4 +1,4 @@
-package dev.jessehaniel;
+package dev.jessehaniel.sorting;
 
 @FunctionalInterface
 public interface Sorting {

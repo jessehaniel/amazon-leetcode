@@ -41,3 +41,21 @@ W
 'src/dev/jessehaniel/RomanToInteger.java,c/4/c44e3aad838dd5edd74a0e2c2cc8f448d7508136
 Y
 )src/dev/jessehaniel/ValidParentheses.java,3/9/3937a86dcf75da16b2f7ccfe69437ecb82b19abc
+P
+ src/dev/jessehaniel/Sorting.java,e/4/e46517013f573fdfd9783e480b586835084f1999
+e
+5src/dev/jessehaniel/sorting/SortingSelectionSort.java,0/d/0dca02ba236ee93a0571c448f2f3d5b1f3f53960
+a
+1src/dev/jessehaniel/sorting/SortingMergeSort.java,4/d/4d051a0741fb1085396660a23fce37f3959b91a1
+e
+5src/dev/jessehaniel/sorting/SortingInsertionSort.java,4/1/41110fdbf45b426692796daff9dc8acdfe92dc25
+n
+>src/dev/jessehaniel/sorting/SortingInsertionRecursiveSort.java,f/7/f768ebb775916b8b2f87d35e6fcd72ff0909542f
+a
+1src/dev/jessehaniel/sorting/SortingQuickSort.java,8/c/8c50667acc04cfce7a55c43b3e884ad1ab5152d7
+b
+2src/dev/jessehaniel/sorting/SortingBubbleSort.java,9/a/9a4f1aa8f7c89c87822f78159fc30f81a903247d
+k
+;src/dev/jessehaniel/sorting/SortingBubbleRecursiveSort.java,4/f/4f5587e97e8a4dbabc5e799e5e165c3f242b4a0a
+X
+(src/dev/jessehaniel/sorting/Sorting.java,7/c/7ca90af8e846442ac390abb31bb30ecb321ade15
